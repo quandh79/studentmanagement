@@ -39,6 +39,7 @@ public class Student {
     public void setAddress(String address) {
         this.address = address;
     }
+    ok
 
     public String getPhone() {
         return phone;
